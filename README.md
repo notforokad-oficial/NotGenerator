@@ -2,6 +2,12 @@
 <img src="https://img.shields.io/github/languages/top/TT-Tutorials/GANG-Nuker?color=6d00c1&label-style=flat-square" </a>
 </p>
 
+ _______          __ ___________                  __                .___
+ \      \   _____/  |\_   _____/__________  ____ |  | _______     __| _/
+ /   |   \ /  _ \   __\    __)/  _ \_  __ \/  _ \|  |/ /\__  \   / __ | 
+/    |    (  <_> )  | |     \(  <_> )  | \(  <_> )    <  / __ \_/ /_/ | 
+\____|__  /\____/|__| \___  / \____/|__|   \____/|__|_ \(____  /\____ | 
+        \/                \/                          \/     \/      \/ 
 <p align="center">
                                     PREMIUM VERSION:
 <a href="(https://discord.gg/amTMNyMff5)">@notforokad</a>
