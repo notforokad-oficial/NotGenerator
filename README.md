@@ -3,21 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/watch?v=QqLqglDPNC">TOKEN GENERATOR SHOWCASE</a>
 
- 
-</p>
-<p align="center">
-<a href="https://github.com/waltuhium69/Heaven-Nuker/archive/refs/heads/main.zip">Fast Download</a> ㅤ•ㅤ
-<a href="https://t.me/waltuhium">Telegram</a> ㅤ•ㅤ
-<a href="https://heaventool.sell.app/">Website</a>
-</p>
-</p>
-<p align="center">
-<a href="https://www.python.org/ftp/python/3.10.5/python-3.10.5-amd64.exe">Python v3.10</a>ㅤㅤ 
-<a href="https://www.python.org/ftp/python/3.9.0/python-3.9.0-amd64.exe">Python v3.9</a>
-</p>
-<p align="center">
 PREMIUM VERSION:
 <a href="https://web.telegram.org/a/#5626872516">@waltuhsantana</a>
 </p>
