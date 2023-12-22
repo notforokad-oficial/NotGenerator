@@ -1,6 +1,7 @@
 <p align="center">
 <img src="https://cdn.discordapp.com/attachments/1185131438836813855/1187750727259529388/image.png?ex=65980610&is=65859110&hm=ea0b28b4120cc15eac6f1b6008eceb23dea8ffa5ccfe6ea64c23b1f8439c2ab2&"></img>
-<img src="https://img.shields.io/github/languages/top/TT-Tutorials/GANG-Nuker?color=6d00c1&label-style=flat-square" </a>
+
+<p align="center"><img src="https://img.shields.io/github/languages/top/TT-Tutorials/GANG-Nuker?color=6d00c1&label-style=flat-square" </a>
 </p>
 <p align="center">
                                     PREMIUM VERSION:
