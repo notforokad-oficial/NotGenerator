@@ -25,13 +25,13 @@
 - [x] - **Might Have Some Bugs**
 - [x] - **Python Provided**
 
-> **WARNING:** Many people have been selling/distributing of Heaven-Nuker!
+> **WARNING:** Many people have been selling/distributing of NotCheated!
 
 > **DO NOT** Installing Heaven-Nuker From Anyother Place Than This Page, Expect it be **Hacked/Scammed.**
 
 ## Installation
 
 #### Windows 10 / 11
-```sh-session
+```txt-session
 100⭐ To Give The SRC and the archive.
 ```
