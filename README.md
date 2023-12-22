@@ -12,7 +12,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="https://cdn.discordapp.com/attachments/1157080921019793500/1160275389940236298/Ekran_goruntusu_2023-10-07_205953.png?ex=653411a9&is=65219ca9&hm=d86c33f70bf4fd30dd91035b07a86df3b1b08f92d9d18e84b626c2b714905186&"></img>
+<img src="https://cdn.discordapp.com/attachments/1185131438836813855/1187751395219214437/image.png?ex=659806af&is=658591af&hm=f191dc1188ef72a67035590210e053b3eaa352598df7dc493d895261cd21c7bf&"></img>
   </kbd>
 </p>
 
