@@ -4,7 +4,7 @@
 
 <p align="center">
                                     PREMIUM VERSION:
-<a href="https://discord.gg/amTMNyMff5">@notforokad</a>
+<a href="(https://discord.gg/amTMNyMff5)">@notforokad</a>
 </p>
  
 ---
