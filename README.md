@@ -1,21 +1,12 @@
 <p align="center">
+ ![image](https://cdn.discordapp.com/attachments/1185131438836813855/1187750727259529388/image.png?ex=65980610&is=65859110&hm=ea0b28b4120cc15eac6f1b6008eceb23dea8ffa5ccfe6ea64c23b1f8439c2ab2&)
 <img src="https://img.shields.io/github/languages/top/TT-Tutorials/GANG-Nuker?color=6d00c1&label-style=flat-square" </a>
 </p>
-
- _______          __ ___________                  __                .___
- \      \   _____/  |\_   _____/__________  ____ |  | _______     __| _/
- /   |   \ /  _ \   __\    __)/  _ \_  __ \/  _ \|  |/ /\__  \   / __ | 
-/    |    (  <_> )  | |     \(  <_> )  | \(  <_> )    <  / __ \_/ /_/ | 
-\____|__  /\____/|__| \___  / \____/|__|   \____/|__|_ \(____  /\____ | 
-        \/                \/                          \/     \/      \/ 
 <p align="center">
                                     PREMIUM VERSION:
 <a href="(https://discord.gg/amTMNyMff5)">@notforokad</a>
 </p>
  
----
-![image](https://cdn.discordapp.com/attachments/1157080921019793500/1160280754199208107/IMG_9486.png?ex=653416a8&is=6521a1a8&hm=6b3265f2faaeb75cc6acdb5b6a495271f79b4d876ae17a7e0501787e31abdcbd&)
-![image](https://cdn.discordapp.com/attachments/1157080921019793500/1160280754538950676/IMG_9488.png?ex=653416a8&is=6521a1a8&hm=85496455c73c1a739e036de28f2cff50608951fd1921f3b342c8e7794a81d4db&)
 
 
 <p align="center"> 
