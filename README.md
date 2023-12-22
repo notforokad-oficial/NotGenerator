@@ -3,9 +3,8 @@
 </p>
 
 <p align="center">
-
 PREMIUM VERSION:
-<a href="https://web.telegram.org/a/#5626872516">@waltuhsantana</a>
+<a href="[https://web.telegram.org/a/#5626872516](https://discord.gg/amTMNyMff5)">@notforokad</a>
 </p>
  
 ---
